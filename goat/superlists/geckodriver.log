@@ -1031,3 +1031,25 @@
 1507040613581	Marionette	INFO	Listening on port 54191
 1507040613755	Marionette	WARN	TLS certificate errors will be ignored for this session
 1507040613785	Marionette	INFO	New connections will no longer be accepted
+1507046206035	geckodriver	INFO	geckodriver 0.19.0
+1507046206041	geckodriver	INFO	Listening on 127.0.0.1:56541
+1507046207154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tg2KVdStY6x6"
+
+(firefox:11923): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11923): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11923): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11923): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1507046207604	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507046207606	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507046207620	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507046207620	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507046208575	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507046208576	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507046208581	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507046208582	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507046211226	Marionette	INFO	Listening on port 46357
+1507046211279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507046221900	Marionette	INFO	New connections will no longer be accepted
